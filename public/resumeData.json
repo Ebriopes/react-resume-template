@@ -1,106 +1,88 @@
 {
   "main": {
-    "name": "Tim Baker",
-    "occupation": "(Your Occupation Here)",
-    "description": "Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
-    "image": "profilepic.jpg",
-    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "name": "Daniel Vargas",
+    "occupation": "Web Developer",
+    "description": "Make Web pages and maintance it",
+    "image": "DanielVR.jpeg",
+    "bio": "My name is Daniel, I'm a Web Developer. A person apassionate about the technologies, I love learning new ways to improve my tasks, I'm mainly self-taught and I learn quickly. I currently work at KAVAK as a Front-end developer, maintaining internal web pages and creating features.",
+    "contactmessage": "Just do it.",
+    "email": "antonio.vargasrosales@gmail.com",
+    "phone": "+52 55 2939 7786",
     "address": {
-      "street": "(Your Street)",
-      "city": "(Your City)",
-      "state": "(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "city": "México city",
+      "state": "México",
+      "zip": "11870"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "https://ebriopes.github.io",
+    "resumedownload": "https://drive.google.com/file/d/1difz2lIZac1q6uC1cItvmZFan-fZauwL/view?usp=sharing",
     "social": [
       {
-        "name": "facebook",
-        "url": "http://facebook.com/tim.baker.906",
-        "className": "fa fa-facebook"
+        "name": "github",
+        "url": "http://github.com/ebriopes",
+        "className": "fa fa-github"
       },
       {
-        "name": "twitter",
-        "url": "http://twitter.com",
-        "className": "fa fa-twitter"
+        "name": "CodePen",
+        "url": "https://codepen.io/Danvar",
+        "className": "fa fa-codepen"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url": "https://www.linkedin.com/in/ebriopes",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "http://instagram.com/tbaker_x",
-        "className": "fa fa-instagram"
+        "name": "facebook",
+        "url": "https://www.facebook.com/ebriopes",
+        "className": "fa fa-facebook"
       },
       {
-        "name": "github",
-        "url": "http://github.com/tbakerx",
-        "className": "fa fa-github"
+        "name": "instagram",
+        "url": "https://www.instagram.com/ebriopes",
+        "className": "fa fa-instagram"
       }
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "My abilities progress:",
     "education": [
       {
-        "school": "University?",
-        "degree": "Masters in Beer tasting",
-        "graduated": "April 2007",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school": "School #1 Maybe College?",
-        "degree": "What did you study 101",
-        "graduated": "March 2003",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "Universidad Autonoma Metropolitana",
+        "degree": "bachelor's degree in Mathematics",
+        "description": "Development of a logical thougth to be able of substiantiate an argument, idea or hypothesis using all the resources that I have currently."
       }
     ],
     "work": [
       {
-        "company": "Awesome Design Studio",
-        "title": "Senior UX God ",
-        "years": "March 2010 - Present",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
-      },
-      {
-        "company": "Super Cool Studio",
-        "title": "Junior bug fixer",
-        "years": "March 2007 - February 2010",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "KAVAK",
+        "title": "Web Frontend engineer",
+        "years": "October 2020 - currently",
+        "description": "Make internal web pages and maintance it. Fix bugs and implementation of visual or logical features. API request implementations."
       }
     ],
     "skills": [
       {
-        "name": "Git",
-        "level": "60%"
-      },
-      {
-        "name": "Illustrator",
-        "level": "55%"
-      },
-      {
-        "name": "ReactJs",
-        "level": "50%"
-      },
-      {
-        "name": "CSS",
-        "level": "90%"
-      },
-      {
-        "name": "HTML5",
+        "name": "Angular",
         "level": "80%"
       },
       {
-        "name": "VueJs",
-        "level": "50%"
+        "name": "ReactJs",
+        "level": "60%"
       },
       {
-        "name": "MongoDB",
+        "name": "HTML5",
+        "level": "75%"
+      },
+      {
+        "name": "SASS",
+        "level": "70%"
+      },
+      {
+        "name": "CSS",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
         "level": "80%"
       }
     ]
@@ -108,46 +90,34 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
-        "image": "canadian-wanderlust.jpg",
-        "url": "https://www.canadianwanderlust.com"
+        "title": "Amazon Clone with React",
+        "category": "Amazon Clone built with ReactJS",
+        "image": "amanaz.png",
+        "url": "https://amanaz.web.app/"
       },
       {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
-        "image": "fury-fighting-gear.jpg",
-        "url": "http://www.timbakerdev.com"
+        "title": "Melp the bests restaurants",
+        "category": "Web page to be able know which restaurant is the best (ReactJS, Firebase)",
+        "image": "melp.png",
+        "url": "https://melp.netlify.app/Melp/home"
       },
       {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "original-thai-food.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title": "Resume Website",
-        "category": "A React based resume website template",
-        "image": "resume-website.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Smirkspace",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "smirkspace.jpg",
-        "url": "http://www.smirkspace.com"
+        "title": "Prime number generator",
+        "category": "Prime number generator build it with JS",
+        "image": "prime_number.png",
+        "url": "https://ebriopes.github.io/NumerosPrimos/"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
+        "text": "Function over form",
+        "user": "Vicktor the machin herald"
       },
       {
-        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "text": "The change is life",
+        "user": "Brad Pitt"
       }
     ]
   }
