@@ -6,7 +6,7 @@
 
 ![ReactJS Resume Website Template](resume-screenshot.png?raw=true "ReactJS Resume Website Template")
 
-### <a href="ebriopes.netlify.app">LIVE DEMO</a>
+### <a href="https://ebriopes.netlify.app">LIVE DEMO</a>
 
 ### If this template has helped you and you'd like to support my work, feel free to [♥️ Sponsor](https://github.com/sponsors/tbakerx) the project
 
