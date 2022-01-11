@@ -106,6 +106,13 @@
         "category": "Prime number generator build it with JS",
         "image": "prime_number.png",
         "url": "https://ebriopes.github.io/NumerosPrimos/"
+      },
+      {
+        "title": "NFT Preview",
+        "category": "Component build it with React",
+        "image": "Screenshot-Mobile-NFT-preview.png",
+        "url": "https://ebriopes.github.io/NFT-preview-card-compnent/"
+
       }
     ]
   },
