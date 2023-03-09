@@ -14,7 +14,7 @@
       "zip": "11870"
     },
     "website": "https://ebriopes.github.io",
-    "resumedownload": "https://drive.google.com/file/d/1difz2lIZac1q6uC1cItvmZFan-fZauwL/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1Ykbl8x918pobSaWXE5kEXIvhN0Ab5qyq/view?usp=share_link",
     "social": [
       {
         "name": "github",
@@ -56,30 +56,38 @@
       {
         "company": "KAVAK",
         "title": "Web Frontend engineer",
-        "years": "October 2020 - currently",
+        "years": "October 2020 - November 2022",
         "description": "Make internal web pages and maintance it. Fix bugs and implementation of visual or logical features. API request implementations."
       }
     ],
     "skills": [
       {
         "name": "Angular",
-        "level": "80%"
-      },
-      {
-        "name": "ReactJs",
-        "level": "60%"
-      },
-      {
-        "name": "HTML5",
-        "level": "75%"
-      },
-      {
-        "name": "SASS",
         "level": "70%"
       },
       {
+        "name": "Javascript",
+        "level": "70%"
+      },
+      {
+        "name": "HTML5",
+        "level": "65"
+      },
+      {
         "name": "CSS",
-        "level": "80%"
+        "level": "60%"
+      },
+      {
+        "name": "Typescript",
+        "level": "50%"
+      },
+      {
+        "name": "SASS",
+        "level": "50%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "40%"
       },
       {
         "name": "Git",
