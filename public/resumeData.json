@@ -71,10 +71,14 @@
       },
       {
         "name": "HTML5",
-        "level": "65"
+        "level": "65%"
       },
       {
         "name": "CSS",
+        "level": "60%"
+      },
+      {
+        "name": "Git",
         "level": "60%"
       },
       {
@@ -88,10 +92,6 @@
       {
         "name": "ReactJs",
         "level": "40%"
-      },
-      {
-        "name": "Git",
-        "level": "80%"
       }
     ]
   },
