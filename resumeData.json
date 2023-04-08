@@ -1,0 +1,139 @@
+{
+  "main": {
+    "name": "Daniel Vargas",
+    "occupation": "Web Developer",
+    "description": "Make Web pages and maintance it",
+    "image": "DanielVR.jpeg",
+    "bio": "My name is Daniel, I'm a Web Developer. A person apassionate about the technologies, I love learning new ways to improve my tasks, I'm mainly self-taught and I learn quickly. I currently work at KAVAK as a Front-end developer, maintaining internal web pages and creating features.",
+    "contactmessage": "Just do it.",
+    "email": "antonio.vargasrosales@gmail.com",
+    "phone": "+52 55 2939 7786",
+    "address": {
+      "city": "México city",
+      "state": "México",
+      "zip": "11870"
+    },
+    "website": "https://ebriopes.github.io",
+    "resumedownload": "https://drive.google.com/file/d/1Ykbl8x918pobSaWXE5kEXIvhN0Ab5qyq/view?usp=share_link",
+    "social": [
+      {
+        "name": "github",
+        "url": "http://github.com/ebriopes",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "CodePen",
+        "url": "https://codepen.io/Danvar",
+        "className": "fa fa-codepen"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/ebriopes",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/ebriopes",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/ebriopes",
+        "className": "fa fa-instagram"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My abilities progress:",
+    "education": [
+      {
+        "school": "Universidad Autonoma Metropolitana",
+        "degree": "bachelor's degree in Mathematics",
+        "description": "Development of a logical thougth to be able of substiantiate an argument, idea or hypothesis using all the resources that I have currently."
+      }
+    ],
+    "work": [
+      {
+        "company": "KAVAK",
+        "title": "Web Frontend engineer",
+        "years": "October 2020 - November 2022",
+        "description": "Make internal web pages and maintance it. Fix bugs and implementation of visual or logical features. API request implementations."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Angular",
+        "level": "70%"
+      },
+      {
+        "name": "Javascript",
+        "level": "70%"
+      },
+      {
+        "name": "HTML5",
+        "level": "65%"
+      },
+      {
+        "name": "CSS",
+        "level": "60%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Typescript",
+        "level": "50%"
+      },
+      {
+        "name": "SASS",
+        "level": "50%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "40%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Amazon Clone with React",
+        "category": "Amazon Clone built with ReactJS",
+        "image": "amanaz.png",
+        "url": "https://amanaz.web.app/"
+      },
+      {
+        "title": "Melp the bests restaurants",
+        "category": "Web page to be able know which restaurant is the best (ReactJS, Firebase)",
+        "image": "melp.png",
+        "url": "https://melp.netlify.app/Melp/home"
+      },
+      {
+        "title": "Prime number generator",
+        "category": "Prime number generator build it with JS",
+        "image": "prime_number.png",
+        "url": "https://ebriopes.github.io/NumerosPrimos/"
+      },
+      {
+        "title": "NFT Preview",
+        "category": "Component build it with React",
+        "image": "Screenshot-Mobile-NFT-preview.png",
+        "url": "https://ebriopes.github.io/NFT-preview-card-compnent/"
+
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Function over form",
+        "user": "Vicktor the machin herald"
+      },
+      {
+        "text": "The change is life",
+        "user": "Brad Pitt"
+      }
+    ]
+  }
+}
